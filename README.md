@@ -11,9 +11,12 @@
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-<!--
+
 
 🌱 I’m currently learning DevOps/SRE 
+<!--
+
+
 
 Here are some ideas to get you started:
 
