@@ -1,5 +1,9 @@
-## Hi there 👋
+## 👋 Hello! I'm Thaw Linn Htet
 
+
+💻 Tech Stack
+
+JAVA JAVASCRIPT TYPESCRIPT REACT NEXT NODE EXPRESS PYTHON AWS
 <!--
 **ThawLinnHtet/ThawLinnHtet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
