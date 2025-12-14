@@ -3,7 +3,12 @@
 
 💻 Tech Stack
 
-JAVA JAVASCRIPT TYPESCRIPT REACT NEXT NODE EXPRESS PYTHON AWS
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 <!--
 **ThawLinnHtet/ThawLinnHtet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
