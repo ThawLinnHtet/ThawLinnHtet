@@ -27,10 +27,12 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ---
 
-🏅 Certifications
-Certificate	Provider	Skills Covered
-🎓 Advanced React	Coursera (Meta)	Hooks, Context, advanced patterns, testing, API integration
-🎓 Node.js + Express + MongoDB Bootcamp	Udemy	REST APIs, authentication, security, MongoDB, backend development
+## 🏅 Certifications
+
+| Certificate | Provider | Skills Covered |
+|------------|----------|----------------|
+| 🎓 Advanced React | Coursera (Meta) | Hooks, Context, advanced patterns, testing, API integration |
+| 🎓 Node.js + Express + MongoDB Bootcamp | Udemy | REST APIs, authentication, security, MongoDB, backend development |
 
 
 🌱 I’m currently learning DevOps/SRE , System design and scalable backend systems.
