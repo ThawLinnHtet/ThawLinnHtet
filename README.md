@@ -27,13 +27,10 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ---
 
-## 📜 Certificates
-
-🎓 Coursera – Advanced React
-Learned advanced React concepts including hooks, context, component composition, API integration, testing, and modern React patterns.
-🎓 Udemy – Node.js, Express & MongoDB Bootcamp
-Built real-world RESTful APIs with authentication, security, payments, and full backend development using Node.js and MongoDB.
----
+🏅 Certifications
+Certificate	Provider	Skills Covered
+🎓 Advanced React	Coursera (Meta)	Hooks, Context, advanced patterns, testing, API integration
+🎓 Node.js + Express + MongoDB Bootcamp	Udemy	REST APIs, authentication, security, MongoDB, backend development
 
 
 🌱 I’m currently learning DevOps/SRE , System design and scalable backend systems.
